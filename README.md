@@ -29,7 +29,8 @@ Develop a chatbot foe worklad management
 ![21](https://github.com/user-attachments/assets/aa479d21-68a9-47fa-ba3a-cb348f5bf706)
 
 
-![Uploading Employee Workload Analysis Dashboard.png…]()
+
+![Employee Workload Analysis Dashboard](https://github.com/user-attachments/assets/af3d8278-902a-42c5-b94a-6bb492db4f05)
 
 
 
