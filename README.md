@@ -1,6 +1,5 @@
 # Employee-workload-Dashboard
-# Overview : This project-based company 
-collected Data
+# Overview : This project-based company collected Data
 1.Employee Data
 2.Organization Data
 3.Sprint Detail
